@@ -1,0 +1,15 @@
+running develop
+running egg_info
+writing text_to_cmd_vel.egg-info/PKG-INFO
+writing dependency_links to text_to_cmd_vel.egg-info/dependency_links.txt
+writing entry points to text_to_cmd_vel.egg-info/entry_points.txt
+writing requirements to text_to_cmd_vel.egg-info/requires.txt
+writing top-level names to text_to_cmd_vel.egg-info/top_level.txt
+reading manifest file 'text_to_cmd_vel.egg-info/SOURCES.txt'
+writing manifest file 'text_to_cmd_vel.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/drmbx/study/robotics/ros2_ws/src/text_to_cmd_vel/install/text_to_cmd_vel/lib/python3.10/site-packages/text-to-cmd-vel.egg-link (link to .)
+Installing text_to_cmd_vel script to /home/drmbx/study/robotics/ros2_ws/src/text_to_cmd_vel/install/text_to_cmd_vel/lib/text_to_cmd_vel
+
+Installed /home/drmbx/study/robotics/ros2_ws/src/text_to_cmd_vel/build/text_to_cmd_vel
+running symlink_data

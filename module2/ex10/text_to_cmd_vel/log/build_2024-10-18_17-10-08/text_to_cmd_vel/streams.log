@@ -1,0 +1,21 @@
+[0.467s] Invoking command in '/home/drmbx/study/robotics/ros2_ws/src/text_to_cmd_vel/build/text_to_cmd_vel': PYTHONPATH=/home/drmbx/study/robotics/ros2_ws/src/text_to_cmd_vel/build/text_to_cmd_vel/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/drmbx/study/robotics/ros2_ws/src/text_to_cmd_vel/install/text_to_cmd_vel/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/drmbx/study/robotics/ros2_ws/src/text_to_cmd_vel/build/text_to_cmd_vel/build --no-deps symlink_data --force
+[0.663s] running develop
+[0.663s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.663s]   warnings.warn(
+[0.775s] running egg_info
+[0.776s] writing text_to_cmd_vel.egg-info/PKG-INFO
+[0.776s] writing dependency_links to text_to_cmd_vel.egg-info/dependency_links.txt
+[0.776s] writing entry points to text_to_cmd_vel.egg-info/entry_points.txt
+[0.776s] writing requirements to text_to_cmd_vel.egg-info/requires.txt
+[0.776s] writing top-level names to text_to_cmd_vel.egg-info/top_level.txt
+[0.777s] reading manifest file 'text_to_cmd_vel.egg-info/SOURCES.txt'
+[0.778s] writing manifest file 'text_to_cmd_vel.egg-info/SOURCES.txt'
+[0.779s] running build_ext
+[0.779s] Creating /home/drmbx/study/robotics/ros2_ws/src/text_to_cmd_vel/install/text_to_cmd_vel/lib/python3.10/site-packages/text-to-cmd-vel.egg-link (link to .)
+[0.779s] Installing text_to_cmd_vel script to /home/drmbx/study/robotics/ros2_ws/src/text_to_cmd_vel/install/text_to_cmd_vel/lib/text_to_cmd_vel
+[0.780s] 
+[0.780s] Installed /home/drmbx/study/robotics/ros2_ws/src/text_to_cmd_vel/build/text_to_cmd_vel
+[0.780s] running symlink_data
+[0.780s] symbolically linking /home/drmbx/study/robotics/ros2_ws/src/text_to_cmd_vel/build/text_to_cmd_vel/resource/text_to_cmd_vel -> /home/drmbx/study/robotics/ros2_ws/src/text_to_cmd_vel/install/text_to_cmd_vel/share/ament_index/resource_index/packages
+[0.780s] symbolically linking /home/drmbx/study/robotics/ros2_ws/src/text_to_cmd_vel/build/text_to_cmd_vel/package.xml -> /home/drmbx/study/robotics/ros2_ws/src/text_to_cmd_vel/install/text_to_cmd_vel/share/text_to_cmd_vel
+[0.812s] Invoked command in '/home/drmbx/study/robotics/ros2_ws/src/text_to_cmd_vel/build/text_to_cmd_vel' returned '0': PYTHONPATH=/home/drmbx/study/robotics/ros2_ws/src/text_to_cmd_vel/build/text_to_cmd_vel/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/drmbx/study/robotics/ros2_ws/src/text_to_cmd_vel/install/text_to_cmd_vel/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/drmbx/study/robotics/ros2_ws/src/text_to_cmd_vel/build/text_to_cmd_vel/build --no-deps symlink_data --force

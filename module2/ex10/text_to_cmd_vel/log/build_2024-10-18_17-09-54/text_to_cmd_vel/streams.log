@@ -1,0 +1,44 @@
+[0.467s] Invoking command in '/home/drmbx/study/robotics/ros2_ws/src/text_to_cmd_vel': PYTHONPATH=/home/drmbx/study/robotics/ros2_ws/src/text_to_cmd_vel/build/text_to_cmd_vel/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/drmbx/study/robotics/ros2_ws/src/text_to_cmd_vel/install/text_to_cmd_vel/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/text_to_cmd_vel build --build-base /home/drmbx/study/robotics/ros2_ws/src/text_to_cmd_vel/build/text_to_cmd_vel/build install --record /home/drmbx/study/robotics/ros2_ws/src/text_to_cmd_vel/build/text_to_cmd_vel/install.log --single-version-externally-managed install_data
+[0.655s] running egg_info
+[0.656s] creating build/text_to_cmd_vel/text_to_cmd_vel.egg-info
+[0.656s] writing build/text_to_cmd_vel/text_to_cmd_vel.egg-info/PKG-INFO
+[0.656s] writing dependency_links to build/text_to_cmd_vel/text_to_cmd_vel.egg-info/dependency_links.txt
+[0.656s] writing entry points to build/text_to_cmd_vel/text_to_cmd_vel.egg-info/entry_points.txt
+[0.657s] writing requirements to build/text_to_cmd_vel/text_to_cmd_vel.egg-info/requires.txt
+[0.657s] writing top-level names to build/text_to_cmd_vel/text_to_cmd_vel.egg-info/top_level.txt
+[0.657s] writing manifest file 'build/text_to_cmd_vel/text_to_cmd_vel.egg-info/SOURCES.txt'
+[0.658s] reading manifest file 'build/text_to_cmd_vel/text_to_cmd_vel.egg-info/SOURCES.txt'
+[0.659s] adding license file 'LICENSE'
+[0.659s] writing manifest file 'build/text_to_cmd_vel/text_to_cmd_vel.egg-info/SOURCES.txt'
+[0.659s] running build
+[0.659s] running build_py
+[0.659s] creating /home/drmbx/study/robotics/ros2_ws/src/text_to_cmd_vel/build/text_to_cmd_vel/build
+[0.659s] creating /home/drmbx/study/robotics/ros2_ws/src/text_to_cmd_vel/build/text_to_cmd_vel/build/lib
+[0.659s] creating /home/drmbx/study/robotics/ros2_ws/src/text_to_cmd_vel/build/text_to_cmd_vel/build/lib/text_to_cmd_vel
+[0.660s] copying text_to_cmd_vel/text_to_cmd_vel.py -> /home/drmbx/study/robotics/ros2_ws/src/text_to_cmd_vel/build/text_to_cmd_vel/build/lib/text_to_cmd_vel
+[0.660s] copying text_to_cmd_vel/__init__.py -> /home/drmbx/study/robotics/ros2_ws/src/text_to_cmd_vel/build/text_to_cmd_vel/build/lib/text_to_cmd_vel
+[0.660s] copying text_to_cmd_vel/subscriber_member_function.py -> /home/drmbx/study/robotics/ros2_ws/src/text_to_cmd_vel/build/text_to_cmd_vel/build/lib/text_to_cmd_vel
+[0.660s] copying text_to_cmd_vel/publisher_member_function.py -> /home/drmbx/study/robotics/ros2_ws/src/text_to_cmd_vel/build/text_to_cmd_vel/build/lib/text_to_cmd_vel
+[0.660s] running install
+[0.660s] running install_lib
+[0.661s] creating /home/drmbx/study/robotics/ros2_ws/src/text_to_cmd_vel/install/text_to_cmd_vel/lib/python3.10/site-packages/text_to_cmd_vel
+[0.661s] copying /home/drmbx/study/robotics/ros2_ws/src/text_to_cmd_vel/build/text_to_cmd_vel/build/lib/text_to_cmd_vel/text_to_cmd_vel.py -> /home/drmbx/study/robotics/ros2_ws/src/text_to_cmd_vel/install/text_to_cmd_vel/lib/python3.10/site-packages/text_to_cmd_vel
+[0.661s] copying /home/drmbx/study/robotics/ros2_ws/src/text_to_cmd_vel/build/text_to_cmd_vel/build/lib/text_to_cmd_vel/__init__.py -> /home/drmbx/study/robotics/ros2_ws/src/text_to_cmd_vel/install/text_to_cmd_vel/lib/python3.10/site-packages/text_to_cmd_vel
+[0.661s] copying /home/drmbx/study/robotics/ros2_ws/src/text_to_cmd_vel/build/text_to_cmd_vel/build/lib/text_to_cmd_vel/subscriber_member_function.py -> /home/drmbx/study/robotics/ros2_ws/src/text_to_cmd_vel/install/text_to_cmd_vel/lib/python3.10/site-packages/text_to_cmd_vel
+[0.661s] copying /home/drmbx/study/robotics/ros2_ws/src/text_to_cmd_vel/build/text_to_cmd_vel/build/lib/text_to_cmd_vel/publisher_member_function.py -> /home/drmbx/study/robotics/ros2_ws/src/text_to_cmd_vel/install/text_to_cmd_vel/lib/python3.10/site-packages/text_to_cmd_vel
+[0.662s] byte-compiling /home/drmbx/study/robotics/ros2_ws/src/text_to_cmd_vel/install/text_to_cmd_vel/lib/python3.10/site-packages/text_to_cmd_vel/text_to_cmd_vel.py to text_to_cmd_vel.cpython-310.pyc
+[0.662s] byte-compiling /home/drmbx/study/robotics/ros2_ws/src/text_to_cmd_vel/install/text_to_cmd_vel/lib/python3.10/site-packages/text_to_cmd_vel/__init__.py to __init__.cpython-310.pyc
+[0.662s] byte-compiling /home/drmbx/study/robotics/ros2_ws/src/text_to_cmd_vel/install/text_to_cmd_vel/lib/python3.10/site-packages/text_to_cmd_vel/subscriber_member_function.py to subscriber_member_function.cpython-310.pyc
+[0.663s] byte-compiling /home/drmbx/study/robotics/ros2_ws/src/text_to_cmd_vel/install/text_to_cmd_vel/lib/python3.10/site-packages/text_to_cmd_vel/publisher_member_function.py to publisher_member_function.cpython-310.pyc
+[0.663s] running install_data
+[0.663s] creating /home/drmbx/study/robotics/ros2_ws/src/text_to_cmd_vel/install/text_to_cmd_vel/share/ament_index
+[0.663s] creating /home/drmbx/study/robotics/ros2_ws/src/text_to_cmd_vel/install/text_to_cmd_vel/share/ament_index/resource_index
+[0.663s] creating /home/drmbx/study/robotics/ros2_ws/src/text_to_cmd_vel/install/text_to_cmd_vel/share/ament_index/resource_index/packages
+[0.663s] copying resource/text_to_cmd_vel -> /home/drmbx/study/robotics/ros2_ws/src/text_to_cmd_vel/install/text_to_cmd_vel/share/ament_index/resource_index/packages
+[0.663s] copying package.xml -> /home/drmbx/study/robotics/ros2_ws/src/text_to_cmd_vel/install/text_to_cmd_vel/share/text_to_cmd_vel
+[0.663s] running install_egg_info
+[0.665s] Copying build/text_to_cmd_vel/text_to_cmd_vel.egg-info to /home/drmbx/study/robotics/ros2_ws/src/text_to_cmd_vel/install/text_to_cmd_vel/lib/python3.10/site-packages/text_to_cmd_vel-0.0.0-py3.10.egg-info
+[0.666s] running install_scripts
+[0.683s] Installing text_to_cmd_vel script to /home/drmbx/study/robotics/ros2_ws/src/text_to_cmd_vel/install/text_to_cmd_vel/lib/text_to_cmd_vel
+[0.683s] writing list of installed files to '/home/drmbx/study/robotics/ros2_ws/src/text_to_cmd_vel/build/text_to_cmd_vel/install.log'
+[0.712s] Invoked command in '/home/drmbx/study/robotics/ros2_ws/src/text_to_cmd_vel' returned '0': PYTHONPATH=/home/drmbx/study/robotics/ros2_ws/src/text_to_cmd_vel/build/text_to_cmd_vel/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/drmbx/study/robotics/ros2_ws/src/text_to_cmd_vel/install/text_to_cmd_vel/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/text_to_cmd_vel build --build-base /home/drmbx/study/robotics/ros2_ws/src/text_to_cmd_vel/build/text_to_cmd_vel/build install --record /home/drmbx/study/robotics/ros2_ws/src/text_to_cmd_vel/build/text_to_cmd_vel/install.log --single-version-externally-managed install_data
